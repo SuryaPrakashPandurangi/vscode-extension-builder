@@ -16,7 +16,7 @@ Supports three extension types:
 ## Install
 
 ```
-/plugin marketplace add <owner>/vscode-extension-builder
+/plugin marketplace add SuryaPrakashPandurangi/vscode-extension-builder
 /plugin install vscode-extension-builder@vscode-extension-builder
 ```
 
