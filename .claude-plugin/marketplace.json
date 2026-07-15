@@ -1,0 +1,15 @@
+{
+  "name": "vscode-extension-builder",
+  "owner": {
+    "name": "Surya Prakash Pandurangi",
+    "email": "suryapandurangi@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "vscode-extension-builder",
+      "source": "./",
+      "description": "Scaffolds, compiles, packages, and installs a working VS Code extension end-to-end from a single request — command extensions, color themes, and snippet packs.",
+      "version": "0.1.0"
+    }
+  ]
+}

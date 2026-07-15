@@ -1,0 +1,21 @@
+_smoketest/
+node_modules/
+*.vsix
+out/
+.claude/settings.local.json
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor cruft
+.vscode/
+.idea/
+
+# npm
+npm-debug.log*
+
+# secrets
+.env
+.env.local
